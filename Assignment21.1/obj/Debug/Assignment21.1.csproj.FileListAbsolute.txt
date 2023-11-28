@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\bin\Debug\Assignment21.1.exe.config
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\bin\Debug\Assignment21.1.exe
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\bin\Debug\Assignment21.1.pdb
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\obj\Debug\Assignment21.1.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\obj\Debug\Assignment21.1.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\obj\Debug\Assignment21.1.exe
+C:\Users\abdul\source\repos\day16\Assignment21.1\Assignment21.1\obj\Debug\Assignment21.1.pdb
